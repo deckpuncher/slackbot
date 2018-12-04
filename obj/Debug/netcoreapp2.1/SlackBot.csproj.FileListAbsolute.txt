@@ -1,0 +1,14 @@
+/Users/john.delcastillo/source/status-bot/SlackBot/bin/Debug/netcoreapp2.1/SlackBot.deps.json
+/Users/john.delcastillo/source/status-bot/SlackBot/bin/Debug/netcoreapp2.1/SlackBot.runtimeconfig.json
+/Users/john.delcastillo/source/status-bot/SlackBot/bin/Debug/netcoreapp2.1/SlackBot.runtimeconfig.dev.json
+/Users/john.delcastillo/source/status-bot/SlackBot/bin/Debug/netcoreapp2.1/SlackBot.dll
+/Users/john.delcastillo/source/status-bot/SlackBot/bin/Debug/netcoreapp2.1/SlackBot.pdb
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.csprojAssemblyReference.cache
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.csproj.CoreCompileInputs.cache
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.RazorAssemblyInfo.cache
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.RazorAssemblyInfo.cs
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.AssemblyInfoInputs.cache
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.AssemblyInfo.cs
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.RazorTargetAssemblyInfo.cache
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.dll
+/Users/john.delcastillo/source/status-bot/SlackBot/obj/Debug/netcoreapp2.1/SlackBot.pdb
